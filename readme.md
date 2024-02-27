@@ -14,7 +14,7 @@ I am doing my undergraduate program from <a href="https://www.srmist.edu.in/"> <
 <br>
 <h3 align="left"><a href="https://www.linkedin.com/in/kalpitha-sv-582759252/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master//Developer.gif" width="30px" height="30px"></a> About Me:</h3>
 
-- 🔭 I’m currently working on [Cus2merAI](https://github.com/kalpithasv/intel-twilio-backend)
+- 🔭 I’m currently working on [Cus2merAI](https://github.com/kalpithasv/intel-backend-twilio1)
 
 - 🌱 I’m currently learning [DSA in Python]
 
