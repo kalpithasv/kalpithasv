@@ -10,9 +10,9 @@ I am doing my undergraduate program from <a href="https://www.srmist.edu.in/"> <
 ![](https://github-profile-trophy.vercel.app/?username=kalpithasv&theme=discord&no-frame=false&no-bg=false&margin-w=3&margin-h=3)
 <p align="left"> <a href="https://twitter.com/KalpithaSv" target="blank"><img src="https://img.shields.io/twitter/follow/KalpithaSv?logo=twitter&style=for-the-badge" alt="KalpithaSv" /></a> </p>
 
-<a href="https://github.com/kalpithasv?tab=repositories"><img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></a>
+<a href="https://github.com/kalpithasv?tab=repositories"><img align="right" alt="Coding" width="300" src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/computer-work.gif"></a>
 <br>
-<h3 align="left"><a href="https://www.linkedin.com/in/kalpitha-sv-582759252/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a> About Me:</h3>
+<h3 align="left"><a href="https://www.linkedin.com/in/kalpitha-sv-582759252/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master//Developer.gif" width="30px" height="30px"></a> About Me:</h3>
 
 - 🔭 I’m currently working on [Cus2merAI](https://github.com/kalpithasv/intel-twilio-backend)
 
