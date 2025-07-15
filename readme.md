@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/MishManners/MishManners/raw/master/MishManners%20Room%20animated.gif)](https://github.com/kalpithasv)
-<h1 align="center">Hello <a href="https://github.com/SiddharthaBhattacharjee"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" width="29px" height="29px"></a>, This is Kalpitha S V</h1>
+<h1 align="center">Hello <a href="https://github.com/kalpithasv"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Handshake.gif" width="29px" height="29px"></a>, This is Kalpitha S V</h1>
 <h4 align="center"><i>
 I am doing my undergraduate program from <a href="https://www.srmist.edu.in/"> <b>SRM INSTITUTE OF SCIENCE AND TECHNOLOGY</b>, Ramapuram</a>
 <br> A Student and a passionate software developer from India. <a href="https://www.linkedin.com/in/kalpitha-sv-582759252/"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Developer.gif" width="30px" height="30px"></a><br>I am committed to continual self-improvement, aiming to enhance myself each day with the goal of becoming a better developer. <a href="https://twitter.com/KalpithaSv"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="30px" height="30px"></a></i></h4>
